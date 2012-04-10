@@ -1,8 +1,9 @@
 ---
+layout: default
 title: this is a title
 ---
 
-# Foo markdown page #
+# New markdown page #
 
 This is a test of markdown in git user pages.
 Is this "git flavoured markdown"?
