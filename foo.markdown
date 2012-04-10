@@ -1,3 +1,7 @@
+---
+title: this is a title
+---
+
 # Foo markdown page #
 
 This is a test of markdown in git user pages.
