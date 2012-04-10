@@ -1,11 +1,11 @@
 ---
 layout: default
-title: this is a title
+title: this is the "foo" page
 ---
 
-# New markdown page #
+# Another page #
 
 This is a test of markdown in git user pages.
-Is this "git flavoured markdown"?
+This is ordinary markdown, not "git flavoured markdown".
 
 Second paragraph.
