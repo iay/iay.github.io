@@ -7,4 +7,4 @@ title: home
 
 Hello, Jekyll world.
 
-Second paragraph.
+Second paragraph with a [link](foo).
